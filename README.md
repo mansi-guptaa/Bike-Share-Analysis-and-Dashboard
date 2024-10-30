@@ -1,6 +1,7 @@
 # 🚴‍♂️ Bike Share Analysis and Dashboard
 
-![Bansal Bike Shop Dashboard](Bike_Share_Dashboard.png)
+![Screenshot (334)](https://github.com/user-attachments/assets/c48aed3d-f630-40ce-b197-4b3543cbd063)
+
 
 ## Project Overview
 
